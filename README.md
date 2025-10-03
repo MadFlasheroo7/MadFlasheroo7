@@ -1,31 +1,23 @@
-# About Me 🙋‍♂️
-Hey There Iam Jayesh Seth (Mad Flasher), am a software developer with specialization in mobile app development. 
-I am skilled in native Android development using Jetpack Compose and cross-platform development with Flutter. I have 
-been doing Android development since 2019, and I enjoy sharing my knowledge and learning with others through blogs and public talks.
+# whoami
+Hey There, am Jayesh Seth (Mad Flasher), am a software developer with specialization in mobile app development. I always like to try new and different things with special love for Android 💚. I am self taught developer as a result i prefer sharing everything i learn in whatever way possible (usually blogs and talks and apps).
 
-I give talks on android, flutter, open-source. You can check out my blogs [here](https://blog.realogs.in/author/jayesh/)
+# navigate thur my github
+I like to keep things clean and organised thus have fixed repos and projects so to help you navigate thru my github below are the primary projects i try to be consistant and maintain.
 
-# Social Media 🌎
-<a href="https://twitter.com/madflasheroo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madflasheroo7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayesh-seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-seth" height="30" width="40" /></a>
-<a href="https://medium.com/@jayeshseth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayeshseth" height="30" width="40" /></a>
+rest of the projects (still important) can be found here.
 
-# Language & Tools
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+- [**Madifiers**](https://github.com/MadFlasheroo7/Madifiers) - Madifiers are a bunch of pre-made modifiers (get it?), composables, extension functions and so on with an aim to make development with Jetpack Compose easier and more straightforward. (or thats the goal atleast🙃)
+
+- [**Compose Animations**](https://github.com/MadFlasheroo7/Compose-Animations) - This focused on building animations in compose using various methods to achive the desired ui and animation.
+
+- [**Compose Canvas**](https://github.com/MadFlasheroo7/Compose-Canvas) - Goal is to use the `Canvas` to its fullest might i.e build fully custom ui and compoenets using canvas.   
+
+- [**Know Your Hardware**](https://github.com/MadFlasheroo7/Know-Your-Hardware) - Goal is to utilise all the sensor available on phones and use theme in compose but with manual DI.
+
+# Useful Links
+
+- **Blogs** - [*Personally Hosted*](https://blog.realogs.in/author/jayesh/) && [*Medium*](https://medium.com/@jayeshseth) 
+- **Social Media** 
+  - [**Twitter**](https://x.com/Madflasheroo7)
+  - [**LinkedIn**](https://www.linkedin.com/in/jayesh-seth/)
+- Resume??
